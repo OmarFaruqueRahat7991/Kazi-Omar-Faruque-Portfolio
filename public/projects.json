@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://i.ibb.co/8j6mcj0/screencapture-my-twelfth-assignment-client-web-app-2022-12-22-22-23-49.png",
+        "title": "Grabphones",
+        "title2": "A used smartphone selling platform",
+        "short_details": "It is an used/pre-owned smartphone selling platform where anyone can easily buy,sell their used smartphones easily. It's a user-friendly platform with cool UI/UX.",
+        "see_more": {
+            "ss1": "https://i.ibb.co/7CC0JFq/12-01.png",
+            "ss2": "https://i.ibb.co/8dyrT2P/12-02.png",
+            "ss3": "https://i.ibb.co/jg0c8V6/12-03.png",
+            "technologies": "React.js, Tailwind, DaisyUI, React Router, Node.js, Express.js Firebase, MongoDB, Vercel",
+            "features": "1. Sellers can sell and buyers can buy easily,2. Elegant UI,3. Dashboard Section for Admin",
+            "live_site": "https://my-twelfth-assignment-client.web.app",
+            "github_client": "https://github.com/OmarFaruqueRahat7991/graphones-client",
+            "github_server": "https://github.com/OmarFaruqueRahat7991/graphones-server"
+        }
+    },
+    {
+        "img": "https://i.ibb.co/CsqhNgG/screencapture-my-eleventh-assignment-web-app-2022-12-22-22-26-33.png",
+        "title": "Bloom Digital Agency",
+        "title2": "A freelance digital marketing services providing platform",
+        "short_details": "It's an freelance digital marketing services providing platform. Anyone can take digital marketing services for their companies. It's a user-friendly platform with great UI/UX",
+        "see_more": {
+            "ss1": "https://i.ibb.co/nnWL4T6/11-01.png",
+            "ss2": "https://i.ibb.co/M6mY78m/11-02.png",
+            "ss3": "https://i.ibb.co/TM5mB2V/11-03.png",
+            "technologies": "React.js, React Router, Tailwind, DaisyUI, Node.js, Firebase, MongoDB, Vercel",
+            "features": "1. Users can hire for digital marketing purposes,2. Stylish UI,3. Review Section for Users",
+            "live_site": "https://my-eleventh-assignment.web.app/",
+            "github_client": "https://github.com/OmarFaruqueRahat7991/Bloom-Digital-Agency",
+            "github_server": "https://github.com/OmarFaruqueRahat7991/Bloom-Digital-Agency-Server-"
+        }
+    },
+    {
+        "img": "https://i.ibb.co/kcnMbx8/screencapture-my-tenth-assignment-web-app-2022-12-22-22-27-47.png",
+        "title": "Web Dev-Course Arena",
+        "title2": "A web development courses learning platform.",
+        "short_details": "It is an web development courses learning platform. Anyone can easily buy courses from here to learn web development.",
+        "see_more": {
+            "ss1": "https://i.ibb.co/82yTvck/10-01.png",
+            "ss2": "https://i.ibb.co/f9sWPz6/10-02.png",
+            "ss3": "https://i.ibb.co/B64GPNv/10-03.png",
+            "technologies": "React.js, React Router, Tailwind, DaisyUI, Node.js, Firebase, Vercel",
+            "features": "1. Users can purchase courses,2. Polished UI,3. Authentication with Firebase ",
+            "live_site": "https://my-tenth-assignment.web.app/",
+            "github_client": "https://github.com/OmarFaruqueRahat7991/Web-Dev-Course-Arena",
+            "github_server": "https://github.com/OmarFaruqueRahat7991/-Web-Dev-Course-Arena-Server"
+        }
+    }
+]
